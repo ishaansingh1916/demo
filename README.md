@@ -1,4 +1,6 @@
 # demo
 This is my first Git Repository
 <br>
-Author - Ishaan Singh
+Actor - Ishaan Singh
+<br>
+Director - Muskan Sharma
